@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "776949506070",
+    "firebase_url": "https://stepcash-3d3c1-default-rtdb.firebaseio.com",
+    "project_id": "stepcash-3d3c1",
+    "storage_bucket": "stepcash-3d3c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776949506070:android:cb00359a34761dc00e9537",
+        "android_client_info": {
+          "package_name": "com.candycrushearner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbleE_e-RGqDcXwmg8bIf5GwsmOg4o8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
