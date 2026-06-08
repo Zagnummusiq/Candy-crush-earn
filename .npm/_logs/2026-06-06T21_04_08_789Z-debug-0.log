@@ -1,0 +1,23 @@
+0 verbose cli /usr/local/nvm/versions/node/v24.16.0/bin/node /usr/local/nvm/versions/node/v24.16.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.16.0
+2 info using node@v24.16.0
+3 silly config load:file:/usr/local/nvm/versions/node/v24.16.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/onsethypekid9/candy-crush-earner/.npmrc
+5 silly config load:file:/home/onsethypekid9/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v24.16.0/etc/npmrc
+7 verbose title npm exec eas-cli build --platform android --profile production --non-interactive
+8 verbose argv "exec" "--" "eas-cli" "build" "--platform" "android" "--profile" "production" "--non-interactive"
+9 verbose logfile logs-max:10 dir:/home/onsethypekid9/.npm/_logs/2026-06-06T21_04_08_789Z-
+10 verbose logfile /home/onsethypekid9/.npm/_logs/2026-06-06T21_04_08_789Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+14 http fetch GET 200 https://registry.npmjs.org/eas-cli 114ms (cache revalidated)
+15 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+16 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+17 verbose cwd /home/onsethypekid9/candy-crush-earner
+18 verbose os Linux 6.6.137+
+19 verbose node v24.16.0
+20 verbose npm  v11.16.0
+21 verbose exit 0
+22 info ok

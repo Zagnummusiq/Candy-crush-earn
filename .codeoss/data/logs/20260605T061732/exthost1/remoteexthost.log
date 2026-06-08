@@ -1,0 +1,3 @@
+2026-06-05 06:19:10.296 [info] Extension host with pid 1505 started
+2026-06-05 06:47:33.496 [info] Extension host terminating: received terminate message from renderer
+2026-06-05 06:47:33.499 [info] Extension host with pid 1505 exiting with code 0

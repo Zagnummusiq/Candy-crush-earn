@@ -1,0 +1,4 @@
+2026-06-05 19:41:24.173 [info] Extension host with pid 2990 started
+2026-06-05 19:41:24.790 [info] Eager extensions activated
+2026-06-05 19:46:45.690 [info] Extension host terminating: renderer disconnected for too long (2)
+2026-06-05 19:46:45.692 [info] Extension host with pid 2990 exiting with code 0

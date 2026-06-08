@@ -1,0 +1,41 @@
+{
+  "name": "CandyCrushEarner",
+  "displayName": "CandyCrushEarner",
+  "expo": {
+    "name": "Candy Crush Earner",
+    "slug": "candy-crush-earner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/images/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "googleServicesFile": "./android/app/google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.candycrushearner.app"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad4eb8d6-87b4-475f-bcbd-957b899d0b41"
+      }
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5364085805702549~4056606175",
+    "ios_app_id": "ca-app-pub-5364085805702549~4056606175"
+  }
+}

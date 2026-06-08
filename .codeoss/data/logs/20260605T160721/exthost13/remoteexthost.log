@@ -1,0 +1,3 @@
+2026-06-05 19:42:51.144 [info] Extension host with pid 3052 started
+2026-06-05 20:13:15.586 [info] Extension host terminating: renderer disconnected for too long (2)
+2026-06-05 20:13:15.597 [info] Extension host with pid 3052 exiting with code 0

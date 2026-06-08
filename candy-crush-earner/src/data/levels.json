@@ -1,0 +1,7 @@
+[
+  { "id": 1, "targetPoints": 1000, "moves": 20, "difficulty": "easy" },
+  { "id": 2, "targetPoints": 2000, "moves": 18, "difficulty": "easy" },
+  { "id": 3, "targetPoints": 3500, "moves": 15, "difficulty": "hard" },
+  { "id": 4, "targetPoints": 5000, "moves": 25, "difficulty": "medium" },
+  { "id": 5, "targetPoints": 8000, "moves": 20, "difficulty": "hard" }
+]

@@ -1,0 +1,37 @@
+2026-06-06 21:09:50.581 [info] [main] Log level: Info
+2026-06-06 21:09:50.581 [info] [main] Validating found git in: "git"
+2026-06-06 21:09:50.581 [info] [main] Using git "2.43.0" from "git"
+2026-06-06 21:09:50.581 [info] [Model][doInitialScan] Initial repository scan started
+2026-06-06 21:09:50.581 [info] > git rev-parse --show-toplevel [3ms]
+2026-06-06 21:09:50.581 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [25ms]
+2026-06-06 21:09:50.758 [info] [Model][openRepository] Opened repository (path): /home/onsethypekid9/candy-crush-earner
+2026-06-06 21:09:50.758 [info] [Model][openRepository] Opened repository (real path): /home/onsethypekid9/candy-crush-earner
+2026-06-06 21:09:50.758 [info] [Model][openRepository] Opened repository (kind): repository
+2026-06-06 21:09:50.770 [info] > git config --get commit.template [5ms]
+2026-06-06 21:09:50.770 [info] > git rev-parse --show-toplevel [2ms]
+2026-06-06 21:09:50.771 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-06-06 21:09:50.776 [info] [Git][getRemotes] No remotes found in the git config file
+2026-06-06 21:09:50.778 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-06-06 21:09:50.790 [info] > git status -z -uall [7ms]
+2026-06-06 21:09:50.792 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2026-06-06 21:09:50.816 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-06-06 21:09:51.048 [info] > git config --get commit.template [232ms]
+2026-06-06 21:09:51.092 [info] > git config --get --local branch.main.vscode-merge-base [272ms]
+2026-06-06 21:09:51.092 [warning] [Git][config] git config failed: Failed to execute git
+2026-06-06 21:09:51.101 [info] [Git][getRemotes] No remotes found in the git config file
+2026-06-06 21:09:51.266 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [165ms]
+2026-06-06 21:09:51.301 [info] > git status -z -uall [32ms]
+2026-06-06 21:09:51.302 [info] > git reflog main --grep-reflog=branch: Created from *. [206ms]
+2026-06-06 21:09:51.323 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [49ms]
+2026-06-06 21:09:51.599 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-06 21:09:52.437 [info] > git check-ignore -v -z --stdin [13ms]
+2026-06-06 21:09:52.676 [info] > git show --textconv :ios/CandyCrushEarner/main.m [13ms]
+2026-06-06 21:09:52.679 [info] > git ls-files --stage -- ios/CandyCrushEarner/main.m [5ms]
+2026-06-06 21:09:52.691 [info] > git cat-file -s d645c7246c42e45510cfcdcd7a7ff584a700d4c1 [3ms]
+2026-06-06 21:09:54.015 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-06 21:09:55.297 [info] > git blame --root --incremental 759e62fc3f28d6b54973a9159b9fe3ca83643c21 -- ios/CandyCrushEarner/main.m [50ms]
+2026-06-06 21:10:24.897 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-06 21:10:27.330 [info] > git check-ignore -v -z --stdin [2ms]
+2026-06-06 21:10:27.514 [info] > git show --textconv :ios/CandyCrushEarner/AppDelegate.mm [11ms]
+2026-06-06 21:10:27.514 [info] > git ls-files --stage -- ios/CandyCrushEarner/AppDelegate.mm [1ms]
+2026-06-06 21:10:27.527 [info] > git cat-file -s fdb5193ba1c15a6ba958671e57c481cdf2eebdb4 [2ms]
